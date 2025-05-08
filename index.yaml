@@ -5,7 +5,7 @@ entries:
       artifacthub.io/operator: "false"
     apiVersion: v2
     appVersion: 3.2.0
-    created: "2025-05-08T17:30:34.098913403+08:00"
+    created: "2025-05-08T17:36:27.986011913+08:00"
     description: 'A Helm chart to deploy RStudio on Kubernetes and OpenShift. Most
       images based on rocker can be used, such as: bioconductor/bioconductor_docker:devel
       | rocker/rstudio | rocker/tidyverse | ghcr.io/maastrichtu-ids/rstudio '
@@ -25,6 +25,6 @@ entries:
     - https://github.com/MaastrichtU-IDS/dsri-helm-charts
     type: application
     urls:
-    - https://github.com/iris01lin/rstudio.git/rstudio-0.1.28.tgz
+    - https://iris01lin.github.io/rstudio/rstudio-0.1.28.tgz
     version: 0.1.28
-generated: "2025-05-08T17:30:34.097632505+08:00"
+generated: "2025-05-08T17:36:27.985128689+08:00"
